@@ -36,7 +36,6 @@ header{
       }
 }
 
-}
 .social {
   position: absolute;
   top: 22px;
@@ -50,35 +49,19 @@ header .heading{
 .nav-list{
   text-align: center;
   padding: 10px 0;
-  margin:0 auto
+  margin:0 auto;
 }
 .nav-list-item{
   list-style: none;
   display: inline-block;
 margin:0 20px;
 }
-/* .header{ */
-  /* width: 100%; */
-  /* height: 120px; */
-  /* background-color: red; */
-
-/* } */
-/* .header-top{ */
-  /* width: 100%; */
-  /* height:70pX; */
-  /* background-color: hotpink; */
-/* } */
-/* .header-bottom{ */
-  /* width: 100%; */
-  /* height: 50px; */
-  /* background-color: pink; */
-/* } */
 
 .main-visual{
   width:100%;
   height: 300px;
   /* background-color: orange; */
-  background-image: url("img/airport.jpg");
+  background-image: url("img/mv.jpg");
   background-size: cover;
   background-position: center;
 }
@@ -193,7 +176,7 @@ margin:0 20px;
   .categories-text{
     padding: bottom 5px;
     border-bottom:1px solid #f7f7f7;
-    margin-bottom 5px;
+    margin-bottom: 5px;
   }
 
   .popular-text:last-child,
@@ -236,11 +219,6 @@ margin:0 20px;
   background-image: url(img/road.jpg);
 }
 
-  /* .footer{ */
-    /* width:100%; */
-    /* height: 120px; */
-    /* background-color: blue; */
-  /* } */
   footer{
     Width: 100%;
     height: 120px;
